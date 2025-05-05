@@ -1,12 +1,14 @@
 {
   "alts": ["A1", "A2", "A3"],
-  "crits": ["C1", "C2"],
-  "types": ["max", "min"],
-  "weights": [0.6, 0.4],
+  "crits": ["Coût", "Temps", "Qualité"],
+  "types": ["min", "min", "max"],
+  "weights": [1, 2, 3],
+  "minVals": [100, 10, 0],
+  "maxVals": [500, 50, 100],
   "matrix": [
-    [7, 3],
-    [9, 5],
-    [6, 4]
+    [200, 30, 80],
+    [150, 40, 60],
+    [180, 35, 90]
   ],
   "mu_c": 0.6,
   "mu_d": 0.4
