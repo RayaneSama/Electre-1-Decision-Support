@@ -1,0 +1,13 @@
+CONTRAT DE LICENCE UTILISATEUR FINAL (CLUF)
+
+Veuillez lire attentivement les termes et conditions suivants avant d'utiliser ce logiciel.
+
+Ce logiciel est basé sur la méthodologie du système d'aide à la décision Electre (ELECTRE).
+
+Développé par Rayane Sama.
+
+Le produit principal est le site web fourni. Ce programme exécutable n'est qu'une solution complémentaire destinée à offrir une version hors-ligne de l'outil pour une utilisation plus flexible.
+
+Une documentation complète du site web est disponible dans le dossier Drive que vous avez reçu, accompagnée d’une vidéo explicative détaillée.
+
+En cliquant sur « J’accepte », vous reconnaissez avoir lu, compris et accepté les termes de ce contrat.
